@@ -4,5 +4,6 @@
 
 </p>
 
-# Kujira setup
-
+<h1 align="center">
+Kujira setup
+</h1>
