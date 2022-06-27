@@ -1,9 +1,7 @@
-<div style="text-align:center">
-  <img src="https://kujira.explorers.guru/chains/kujira.png" />
-</div>
+<p align="center"> 
 
-<p>
-
-# Kujira setup
+![Kujiraimg](https://kujira.explorers.guru/chains/kujira.png)
 
 </p>
+# Kujira setup
+
