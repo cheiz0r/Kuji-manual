@@ -1,19 +1,11 @@
-# Заголовок
-## Заголовок 2 
-____
-Salam 
+<p align="center">
 
-**ZHIR**
+![alt text](https://kujira.explorers.guru/chains/kujira.png)
 
-***ZHIR***
+</p>
 
-_text_
+<p>
 
-~~text~~
+# Kujira setup
 
-:white_check_mark:
-
-```
-4CPU 8RAM 200GB
-```
-
+</p>
