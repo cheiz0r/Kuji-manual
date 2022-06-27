@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="https://kujira.explorers.guru/chains/kujira.png" /></div>
+<div style="text-align:center">
+  <img src="https://kujira.explorers.guru/chains/kujira.png" />
+</div>
 
 <p>
 
